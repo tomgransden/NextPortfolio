@@ -25,7 +25,7 @@ export default function Home() {
 
         <p className={styles.aboutTitle}>About me</p>
 
-        <p className={styles.aboutText}>I'm an app developer with over 8 years of app development experience, focussing on React Native for the last 6 years. I enjoy writing robust, performant and well tested code.</p>
+        <p className={styles.aboutText}>I&apos;m an app developer with over 8 years of app development experience, focussing on React Native for the last 6 years. I enjoy writing robust, performant and well tested code.</p>
 
 
       </div>
